@@ -10,6 +10,8 @@ I am young developer from **Ukraine** 💙💛
 
 I am **Frontend-Developer** (starter), who sometimes posts his works on the **Github** ([***u can check it here*** <3](https://github.com/Miha77777ua?tab=repositories))
 
+I also post some **other projects**, aside from **Frontend**
+
 ---
 
 # Tech stack
