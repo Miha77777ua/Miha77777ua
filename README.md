@@ -1,6 +1,6 @@
 # Hiyo! 💚
 
-My name is **Miha**, I am **14** and I just ***LOVE*** **programin!**
+My name is **Miha**, I am **14** and I just ***LOVE*** **programmin!**
 
 I am young developer from **Ukraine** 💙💛
 
